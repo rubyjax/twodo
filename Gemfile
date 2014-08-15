@@ -14,6 +14,7 @@ gem 'uglifier', '>= 1.3.0'
 group :test, :development do
   gem 'cucumber-rails'
   gem 'database_cleaner'
+  gem 'fabrication'
   gem 'launchy'
   gem 'letter_opener'
   gem 'rspec-rails'
