@@ -18,4 +18,11 @@ group :test, :development do
   gem 'launchy'
   gem 'letter_opener'
   gem 'rspec-rails'
+  gem 'paratrooper', '2.0.0'
+  gem 'phil'
 end
+
+group :production, :staging do
+  gem 'rails_12factor', group: :production
+end
+
