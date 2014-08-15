@@ -1,0 +1,77 @@
+* Authentication
+** GitHub/LinkedIn
+** Gravitars
+
+* Profiles 
+** Beard length 
+** Interested by project
+**Skills
+**** Skill levels
+** Availability/Status (on-line)?
+** Location
+** Paring Type
+** Spoken languages
+** Operating environment
+**** OS, Versions, Editors
+
+* Pairing Requests management
+** Request Type? Urgency?
+** Random Pairing
+** Intelligent Pairing
+** Propose another time
+
+* Scheduling?
+** Physical location or remote
+
+
+* Messaging?
+** Notifications
+*** SMS
+** User-to-User
+** Live Chat
+** Topic/Help Forums
+
+* Reputation  System?
+** How often you respond to requests
+** Exclusivity/Karma?
+** Projects that person is on?
+** Abuse reporting
+
+
+* Screen share with keyboard sharing
+** Real-time Collaboration
+
+* Topics of interest
+
+* Favorites/Contacts/Socialization
+
+* Platform:  Mobile/Web
+
+* Plugins?
+** Code dating
+** BitBucket Integration
+
+* Rewards (Money/Rewards)
+** Sponsored Pairing
+** Contract/Competition/RFP
+
+* Open Pairing
+
+* Terms & Conditions
+
+* Technology
+** WebSockets
+** Queuing 
+** API
+**Chrome Extension 
+** OrientDB
+** Angular
+** Ember 
+** Rails4
+** Twitter BootStrap
+** Knockout
+** Foundation 
+** haml/jade/whatever
+** sass
+** Cucumber
+** RSpec
