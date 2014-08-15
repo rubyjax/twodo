@@ -1,5 +1,9 @@
 # TwoDo
 
+Staging site: [twodo.staging.rubyjax.org](twodo.staging.rubyjax.org)
+
+Production site: [twodo.rubyjax.org](twodo.rubyjax.org)
+
 A RubyJax project to facilitate pair programming
 
 ## Setup for Development
